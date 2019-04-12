@@ -1,5 +1,5 @@
 class Hash
   def keys_of(arguments)
-  keys_of = {}
+  animal = {"Panama" => "re-footed tortoise"}
   end
 end
